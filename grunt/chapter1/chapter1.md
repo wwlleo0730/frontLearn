@@ -1,6 +1,6 @@
 # chapter1  
 
-from 
+from  http://www.cnblogs.com/wangfupeng1988/p/4561993.html
 
 1.安装nodejs
 
