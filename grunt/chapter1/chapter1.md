@@ -41,6 +41,19 @@ npm install grunt --save-dev
 
 5.创建Gruntfile.js
 
+module.exports = function(grunt) {
+   
+    //获取package.json
+    grunt.initConfig({
+        pkg: grunt.file.readJSON('package.json')
+    });
+    
+    grunt.registerTask('default',[]);
+    
+};
 
+进入项目目录执行 grunt 后显示
+
+done.
 
 
