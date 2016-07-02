@@ -1,0 +1,9 @@
+{
+  "name": "grunt-test",
+  "version": "1.0.0",
+  "title": "grunt-test",
+  "author": "wuwenli",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
